@@ -3,3 +3,13 @@
     align-items: center;
     background-color: rgb(199, 217, 233);
 }
+
+hr{
+    height: 25px;
+    background-color: rgb(231, 231, 4)
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse
+}
